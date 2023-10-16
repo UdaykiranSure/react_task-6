@@ -14,9 +14,13 @@ function Home2() {
           <Col md={8} className="home-about-description">
             <p className="home-about-body">
               Here are some of my expertice
+               <br />
+               <br />
               <i>
                 <b className="purple"> Java </b>
+     <br />
                 <b className="purple"> Python </b>
+     <br />
                 <b className="purple"> Java Script </b>
               </i>
               <br />
