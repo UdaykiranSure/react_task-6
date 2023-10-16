@@ -9,6 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             hELLO Everyone, I am <span className="purple">Sure Uday Kiran</span>
+            <br />
             I am a third year student at VIT-AP University studying Computer Science and engineering with specilaization in Artificial Intelligence and machine learning
             <br />
             <br />
